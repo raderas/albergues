@@ -4,6 +4,9 @@
   "description": "Control de albergues",
   "author": "El Salvador Conectado",
   "private": true,
+  "engines": {
+    "node": "12.x"
+  }
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
